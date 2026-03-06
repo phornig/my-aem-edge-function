@@ -3,10 +3,10 @@
 
 authors = []
 cloned_from = "https://github.com/fastly/compute-starter-kit-javascript-empty"
-description = "Simple AEM Edge Functions Boilerplate"
+description = "My AEM Edge Function"
 language = "javascript"
 manifest_version = 3
-name = "aem-edge-functions-boilerplate"
+name = "my-aem-edge-function"
 service_id = ""
 
 [scripts]

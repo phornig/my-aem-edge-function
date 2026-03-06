@@ -1,4 +1,4 @@
-# aem-edge-functions-boilerplate
+# my-aem-edge-function
 
 ## Introduction
 
